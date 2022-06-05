@@ -1,0 +1,27 @@
+:root{
+    --Red: hsl(0, 100%, 74%);
+    --Green: hsl(154, 59%, 51%);
+    --Blue: hsl(248, 32%, 49%);
+    --DarkBlue: hsl(249, 10%, 26%); 
+    --GrayishBlue: hsl(246, 25%, 77%);
+    font-family: 'Poppins', sans-serif;
+}
+
+html{ 
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+     box-sizing:inherit;
+  }
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}

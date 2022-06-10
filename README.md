@@ -20,7 +20,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ## Overview
 
-I've tried to do it with Tailwind CSS, which I am still learning, so it was tricky. It was especially tough to do the sizing. The JavaScript validation was a bit tricky too. I'd appreciate any tips and comments to improve and learn! Thank you!
+Done with Tailwind CSS, which I am still learning, so it was tricky. It was especially tough to do the sizing. The JavaScript validation was a bit tricky too. I'd appreciate any tips and comments to improve and learn! Thank you!
 
 ### The challenge
 
